@@ -1,6 +1,6 @@
 # Tutorial para Búsquedas sobre Calidad del Aire y Atmósfera en Santiago en el Sistema e-SEIA
 
-
+![Portada del Sistema e-SEIA](fig/01_busqueda_formulario_eseia.png)
 
 ## 1. Introducción al Sistema e-SEIA
 
@@ -22,16 +22,41 @@ Para investigaciones relacionadas con calidad del aire en Santiago, esta platafo
 
 ### 3.1 Búsqueda de Proyectos por Filtros Básicos
 
-
 Como se observa en la siguiente imagen, el sistema ofrece diferentes filtros para encontrar proyectos:
 
-![Portada](fig/0_portada_esiea.png)
+![Formulario de búsqueda avanzada](fig/03_busqueda2_esiea.png)
 
-Sin embargo, en nuestro caso recomiendo iniciar por la búsqueda avanzada ya que nospermite especificar mas la búsqueda.
+1. En la página principal, haz clic en "Buscar Proyectos"
+2. Configura los siguientes filtros para estudios relacionados con calidad del aire en Santiago:
 
+   - **Región**: Selecciona "Región Metropolitana de Santiago"
+   - **Tipo de presentación**: Puedes seleccionar "EIA" (Estudios de Impacto Ambiental), "DIA" (Declaración de Impacto Ambiental) o "AMBOS" dependiendo de tu interés
+   - **Estado del proyecto**: "Aprobado" es recomendable para ver proyectos con mediciones y evaluaciones validadas
+   - **Sectores Productivos**: Selecciona los sectores más relevantes para calidad del aire:
+     - "Energía" (centrales termoeléctricas, proyectos de combustión)
+     - "Minería" (fundiciones, procesamiento de minerales)
+     - "Instalaciones fabriles varias"
+   
+3. Haz clic en "Buscar"
 
-![Portada del Sistema e-SEIA](fig/01_busqueda_formulario_eseia.png)
+### 3.2 Búsqueda Avanzada por Palabras Clave
 
+Para búsquedas más específicas relacionadas con calidad del aire:
+
+1. En el campo "Nombre de Proyecto" puedes ingresar términos como:
+   - "Calidad aire"
+   - "Emisiones atmosféricas"
+   - "Material particulado"
+   - "MP10" o "MP2.5"
+   - "NOx" o "SO2"
+   - "Monitoreo atmosférico"
+
+2. También puedes ingresar comunas específicas de Santiago donde se concentran problemas de calidad del aire:
+   - "Pudahuel"
+   - "Cerrillos"
+   - "La Florida"
+   - "Las Condes"
+   - "Independencia"
 
 ## 4. Navegación por los Resultados de Búsqueda
 
@@ -64,8 +89,6 @@ La ficha de un proyecto contiene:
 2. Expediente de Evaluación de Impacto Ambiental
 
 ![Ficha de proyecto con información general](fig/04_ficha_proyecto.png)
-
-En la pestaña expediente evaluación de impacto ambiental puedes ver el expediente completo del proyecto como se ve en la siguiente imagen:
 
 ![Expediente del proyecto con listado de documentos](fig/05_expediente_proyecto.png)
 

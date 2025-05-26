@@ -1,7 +1,5 @@
 # Tutorial para Búsquedas sobre Calidad del Aire y Atmósfera en Santiago en el Sistema e-SEIA
 
-
-
 ## 1. Introducción al Sistema e-SEIA
 
 El Sistema de Evaluación de Impacto Ambiental electrónico (e-SEIA) es la plataforma oficial del Servicio de Evaluación Ambiental (SEA) que permite acceder a la documentación completa de todos los proyectos sometidos a evaluación ambiental en Chile.
@@ -27,7 +25,12 @@ Como se observa en la siguiente imagen, el sistema ofrece diferentes filtros par
 
 ![Portada](fig/0_portada_esiea.png)
 
-Sin embargo, en nuestro caso recomiendo iniciar por la búsqueda avanzada ya que nospermite especificar mas la búsqueda.
+Sin embargo, en nuestro caso recomiendo iniciar la búsqueda avanzada, Esta nos permite especificar de manera mas detallada como se muestra en la siguiente figura.
+
+
+ - En nuestro caso se opta por la región metropolitana 
+ - Tipo de presentación qie puedes ser por Estudio de Impacto Ambiental (EIA), Declaración de impacto ambiental (DEIA) o Ambos. En general los DEIA son mas completos y cuentan con linea base ambiental.
+ - Tambien podemos escoger la área productiva, en nuestro caso escogimos Energía y Mineria ya que es mas específico 
 
 
 ![Portada del Sistema e-SEIA](fig/01_busqueda_formulario_eseia.png)
@@ -65,7 +68,7 @@ La ficha de un proyecto contiene:
 
 ![Ficha de proyecto con información general](fig/04_ficha_proyecto.png)
 
-En la pestaña expediente evaluación de impacto ambiental puedes ver el expediente completo del proyecto como se ve en la siguiente imagen:
+En la pestaña expediente evaluación de impacto ambiental puedes ver el expediente completo del proyecto, como se muestra en la siguiente figura:
 
 ![Expediente del proyecto con listado de documentos](fig/05_expediente_proyecto.png)
 
